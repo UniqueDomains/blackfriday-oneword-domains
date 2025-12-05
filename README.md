@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BLACKFRIDAY one-word domains still available to buy.
 
-This dataset contains 4,916 .BLACKFRIDAY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,915 .BLACKFRIDAY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BLACKFRIDAY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=blackfriday-oneword-domains&utm_content=description.top) (4,916) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.BLACKFRIDAY one word 
 | aaron.blackfriday      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.blackfriday  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.blackfriday      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.blackfriday  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.blackfriday  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.blackfriday    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.blackfriday     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.blackfriday   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BLACKFRIDAY one word 
 | abbatial.blackfriday   | available | 50       | 1%     | 8      |           |         |         |
 | abc.blackfriday        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.blackfriday  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.blackfriday  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.blackfriday  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.blackfriday | available | 56       | 1%     | 10     |           |         |         |
 | abducens.blackfriday   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.blackfriday   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.BLACKFRIDAY one word 
 | aberdonian.blackfriday | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.blackfriday   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.blackfriday    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.blackfriday  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.blackfriday  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.blackfriday    | available | 106      | 5%     | 7      |           |         |         |
 | abient.blackfriday     | available | 54       | 1%     | 6      |           |         |         |
 | ability.blackfriday    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BLACKFRIDAY one word 
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
