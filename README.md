@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.BLACKFRIDAY one word 
 
 | Domain                 | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.blackfriday        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.blackfriday        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.blackfriday      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.blackfriday  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.blackfriday      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BLACKFRIDAY one word 
 | abatic.blackfriday     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.blackfriday    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.blackfriday   | available | 50       | 1%     | 8      |           |         |         |
-| abc.blackfriday        | available | 102      | 41%    | 3      |           |         |         |
+| abc.blackfriday        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.blackfriday  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.blackfriday  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.blackfriday | available | 56       | 1%     | 10     |           |         |         |
