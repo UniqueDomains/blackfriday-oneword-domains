@@ -79,9 +79,9 @@ print(df.head())
 | air.blackfriday        | premium   | $390      | $390          | 84             | 49     | 3      | namecheap              |
 | good.blackfriday       | available | $134.98   | —             | 82             | 55     | 4      | namecheap              |
 | big.blackfriday        | premium   | $390      | $390          | 88             | 47     | 3      | namecheap              |
-| zero.blackfriday       | available | $134.98   | —             | 112            | 54     | 4      | namecheap              |
-| law.blackfriday        | premium   | $390      | $390          | 82             | 46     | 3      | namecheap              |
 | alpha.blackfriday      | available | $134.98   | —             | 90             | 54     | 5      | namecheap              |
+| law.blackfriday        | premium   | $390      | $390          | 82             | 46     | 3      | namecheap              |
+| zero.blackfriday       | available | $134.98   | —             | 112            | 53     | 4      | namecheap              |
 | mix.blackfriday        | premium   | $390      | $390          | 66             | 44     | 3      | namecheap              |
 | fast.blackfriday       | available | $134.98   | —             | 82             | 53     | 4      | namecheap              |
 
