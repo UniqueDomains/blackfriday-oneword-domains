@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .blackfriday one-word domains from
 
 **Public extract:** 9,822 rows · **Live catalog:** 9,822 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/blackfriday`  
 **Best for:** founders, investors, studios
 
@@ -72,9 +72,9 @@ print(df.head())
 | one.blackfriday        | premium   | $390      | $390          | 132            | 50     | 3      | namecheap              |
 | seventeen.blackfriday  | available | $134.98   | —             | 84             | 62     | 9      | namecheap              |
 | virtually.blackfriday  | resell    | —         | —             | 64             | 13     | 9      | GoDaddy.com, LLC       |
-| design.blackfriday     | premium   | $130      | $33.80        | 108            | 50     | 6      | namecheap              |
-| enterprise.blackfriday | available | $134.98   | —             | 68             | 61     | 10     | namecheap              |
 | abc.blackfriday        | premium   | $390      | $390          | 102            | 50     | 3      | namecheap              |
+| enterprise.blackfriday | available | $134.98   | —             | 68             | 61     | 10     | namecheap              |
+| design.blackfriday     | premium   | $130      | $33.80        | 108            | 49     | 6      | namecheap              |
 | cloud.blackfriday      | available | $134.98   | —             | 70             | 59     | 5      | namecheap              |
 | air.blackfriday        | premium   | $390      | $390          | 84             | 49     | 3      | namecheap              |
 | good.blackfriday       | available | $134.98   | —             | 82             | 55     | 4      | namecheap              |
@@ -83,7 +83,7 @@ print(df.head())
 | law.blackfriday        | premium   | $390      | $390          | 82             | 46     | 3      | namecheap              |
 | alpha.blackfriday      | available | $134.98   | —             | 90             | 53     | 5      | namecheap              |
 | mix.blackfriday        | premium   | $390      | $390          | 66             | 45     | 3      | namecheap              |
-| fast.blackfriday       | available | $134.98   | —             | 82             | 53     | 4      | namecheap              |
+| fast.blackfriday       | available | $134.98   | —             | 82             | 52     | 4      | namecheap              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
