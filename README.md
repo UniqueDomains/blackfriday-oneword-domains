@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .blackfriday one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,801 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,801 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,801 domains · **Median ask:** $134.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/blackfriday`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.blackfriday          | available | $134.98   | —             | 80             | 26     | 4      | namecheap |
+| ladies.blackfriday        | available | $134.98   | —             | 80             | 17     | 6      | namecheap |
+| forces.blackfriday        | available | $134.98   | —             | 82             | 12     | 6      | namecheap |
+| Apples.blackfriday        | available | $134.98   | —             | 90             | 16     | 6      | namecheap |
+| toneup.blackfriday        | available | $134.98   | —             | 80             | 5      | 7      | namecheap |
+| hangon.blackfriday        | available | $134.98   | —             | 82             | 6      | 7      | namecheap |
+| pierogi.blackfriday       | available | $134.98   | —             | 82             | 7      | 7      | namecheap |
+| watches.blackfriday       | available | $134.98   | —             | 84             | 19     | 7      | namecheap |
+| dogsick.blackfriday       | available | $134.98   | —             | 90             | 1      | 7      | namecheap |
 | travelers.blackfriday     | available | $114.99   | $114.99       | 58             | 61     | 9      | namesilo  |
 | computers.blackfriday     | premium   | $140      | $36.40        | 68             | 19     | 9      | namecheap |
 | regions.blackfriday       | available | $134.98   | —             | 64             | 59     | 7      | namecheap |
@@ -75,15 +84,6 @@ print(df.head())
 | jobs.blackfriday          | available | $134.98   | —             | 79             | 42     | 4      | namecheap |
 | printers.blackfriday      | premium   | $116      | $30.68        | 59             | 10     | 8      | namesilo  |
 | justin.blackfriday        | available | $134.98   | —             | 58             | 38     | 7      | namecheap |
-| laptops.blackfriday       | premium   | $116      | $30.68        | 56             | 8      | 7      | namesilo  |
-| tokens.blackfriday        | available | $114.99   | $114.99       | 51             | 36     | 6      | namesilo  |
-| trends.blackfriday        | available | $134.98   | —             | 60             | 32     | 6      | namecheap |
-| letsgo.blackfriday        | available | $134.98   | —             | 57             | 31     | 7      | namecheap |
-| spaces.blackfriday        | available | $134.98   | —             | 54             | 30     | 6      | namecheap |
-| blocks.blackfriday        | available | $134.98   | —             | 53             | 29     | 6      | namecheap |
-| commonground.blackfriday  | available | $134.98   | —             | 74             | 28     | 13     | namecheap |
-| photos.blackfriday        | available | $134.98   | —             | 54             | 28     | 6      | namecheap |
-| gods.blackfriday          | available | $134.98   | —             | 72             | 27     | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,801 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,801 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .blackfriday domains. That makes the set highly specific: the keyword sits in the extension, so the strongest names are words that pair cleanly with a sale, offer, retail, gifting, or promotional context. Examples such as tips.blackfriday, jewels.blackfriday, ladies.blackfriday, and homes.blackfriday show a mix of commercial, category, and audience terms. The median ask is 134.41, which keeps entry pricing relatively approachable, but the main evaluation question is fit. When comparing these domains, focus on whether the word before .blackfriday sounds natural, commercially relevant, and easy to understand at a glance.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fits words that pair naturally with promo or retail intent
+- Median ask is 134.41 across 12,801 listed domains
+- Check if the keyword plus .blackfriday reads cleanly aloud
+- Prioritize clear category terms over forced or awkward pairings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
