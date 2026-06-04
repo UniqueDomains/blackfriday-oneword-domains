@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .blackfriday one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,801 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,801 domains · **Median ask:** $134.41 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,801 domains · **Median ask:** $127.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/blackfriday`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.blackfriday          | available | $134.98   | —             | 80             | 26     | 4      | namecheap |
-| ladies.blackfriday        | available | $134.98   | —             | 80             | 17     | 6      | namecheap |
-| forces.blackfriday        | available | $134.98   | —             | 82             | 12     | 6      | namecheap |
-| Apples.blackfriday        | available | $134.98   | —             | 90             | 16     | 6      | namecheap |
-| toneup.blackfriday        | available | $134.98   | —             | 80             | 5      | 7      | namecheap |
-| hangon.blackfriday        | available | $134.98   | —             | 82             | 6      | 7      | namecheap |
-| pierogi.blackfriday       | available | $134.98   | —             | 82             | 7      | 7      | namecheap |
-| watches.blackfriday       | available | $134.98   | —             | 84             | 19     | 7      | namecheap |
-| dogsick.blackfriday       | available | $134.98   | —             | 90             | 1      | 7      | namecheap |
-| travelers.blackfriday     | available | $114.99   | $114.99       | 58             | 61     | 9      | namesilo  |
-| computers.blackfriday     | premium   | $140      | $36.40        | 68             | 19     | 9      | namecheap |
-| regions.blackfriday       | available | $134.98   | —             | 64             | 59     | 7      | namecheap |
-| plz.blackfriday           | premium   | $420      | $420          | 72             | 14     | 3      | namecheap |
-| keepthechange.blackfriday | available | $134.98   | —             | 46             | 59     | 15     | namecheap |
-| OKs.blackfriday           | premium   | $384      | $384          | 68             | 13     | 3      | namesilo  |
-| Ryan.blackfriday          | available | $134.98   | —             | 60             | 44     | 4      | namecheap |
-| sqm.blackfriday           | premium   | $420      | $420          | 54             | 11     | 4      | namecheap |
-| jobs.blackfriday          | available | $134.98   | —             | 79             | 42     | 4      | namecheap |
-| printers.blackfriday      | premium   | $116      | $30.68        | 59             | 10     | 8      | namesilo  |
-| justin.blackfriday        | available | $134.98   | —             | 58             | 38     | 7      | namecheap |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| using.blackfriday        | available | $114.99   | $114.99       | 82             | 8      | 5      | namesilo  |
+| intelligence.blackfriday | available | $134.98   | —             | 80             | 39     | 12     | namecheap |
+| Volvo.blackfriday        | available | $114.99   | $114.99       | 88             | 18     | 5      | namesilo  |
+| concern.blackfriday      | available | $114.99   | $114.99       | 86             | 9      | 7      | namesilo  |
+| supernatural.blackfriday | available | $114.99   | $114.99       | 84             | 22     | 12     | namesilo  |
+| confident.blackfriday    | available | $114.99   | $114.99       | 93             | 18     | 9      | namesilo  |
+| polyester.blackfriday    | available | $114.99   | $114.99       | 86             | 10     | 9      | namesilo  |
+| deliver.blackfriday      | available | $114.99   | $114.99       | 90             | 30     | 7      | namesilo  |
+| lab.blackfriday          | premium   | $384      | $384          | 88             | 46     | 3      | namesilo  |
+| bulb.blackfriday         | available | $114.99   | $114.99       | 90             | 11     | 4      | namesilo  |
+| contraband.blackfriday   | available | $114.99   | $114.99       | 96             | 7      | 10     | namesilo  |
+| where.blackfriday        | available | $114.99   | $114.99       | 100            | 31     | 5      | namesilo  |
+| musical.blackfriday      | available | $114.99   | $114.99       | 98             | 19     | 7      | namesilo  |
+| anti.blackfriday         | premium   | —         | —             | 82             | 29     | 4      | —         |
+| critique.blackfriday     | available | $134.98   | —             | 84             | 12     | 8      | namecheap |
+| vary.blackfriday         | available | $114.99   | $114.99       | 90             | 8      | 4      | namesilo  |
+| fake.blackfriday         | premium   | —         | —             | 84             | 32     | 4      | —         |
+| chore.blackfriday        | available | $114.99   | $114.99       | 88             | 11     | 5      | namesilo  |
+| midFebruary.blackfriday  | available | $134.98   | —             | 98             | 1      | 12     | namecheap |
+| expecting.blackfriday    | available | $114.99   | $114.99       | 86             | 5      | 9      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
