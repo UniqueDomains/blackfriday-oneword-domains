@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .blackfriday one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,801 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,801 domains · **Median ask:** $127.90 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,801 domains · **Median ask:** $126.66 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/blackfriday`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/blackfriday`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BLACKFRIDAY one-word 
 
 ### Files
 
-- `blackfriday.csv` — public CSV extract (1,000 rows)
-- `blackfriday.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `blackfriday.csv`, public CSV extract (1,000 rows)
+- `blackfriday.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| using.blackfriday        | available | $114.99   | $114.99       | 82             | 8      | 5      | namesilo  |
-| intelligence.blackfriday | available | $134.98   | —             | 80             | 39     | 12     | namecheap |
-| Volvo.blackfriday        | available | $114.99   | $114.99       | 88             | 18     | 5      | namesilo  |
-| concern.blackfriday      | available | $114.99   | $114.99       | 86             | 9      | 7      | namesilo  |
-| supernatural.blackfriday | available | $114.99   | $114.99       | 84             | 22     | 12     | namesilo  |
-| confident.blackfriday    | available | $114.99   | $114.99       | 93             | 18     | 9      | namesilo  |
-| polyester.blackfriday    | available | $114.99   | $114.99       | 86             | 10     | 9      | namesilo  |
-| deliver.blackfriday      | available | $114.99   | $114.99       | 90             | 30     | 7      | namesilo  |
-| lab.blackfriday          | premium   | $384      | $384          | 88             | 46     | 3      | namesilo  |
-| bulb.blackfriday         | available | $114.99   | $114.99       | 90             | 11     | 4      | namesilo  |
-| contraband.blackfriday   | available | $114.99   | $114.99       | 96             | 7      | 10     | namesilo  |
-| where.blackfriday        | available | $114.99   | $114.99       | 100            | 31     | 5      | namesilo  |
-| musical.blackfriday      | available | $114.99   | $114.99       | 98             | 19     | 7      | namesilo  |
-| anti.blackfriday         | premium   | —         | —             | 82             | 29     | 4      | —         |
-| critique.blackfriday     | available | $134.98   | —             | 84             | 12     | 8      | namecheap |
-| vary.blackfriday         | available | $114.99   | $114.99       | 90             | 8      | 4      | namesilo  |
-| fake.blackfriday         | premium   | —         | —             | 84             | 32     | 4      | —         |
-| chore.blackfriday        | available | $114.99   | $114.99       | 88             | 11     | 5      | namesilo  |
-| midFebruary.blackfriday  | available | $134.98   | —             | 98             | 1      | 12     | namecheap |
-| expecting.blackfriday    | available | $114.99   | $114.99       | 86             | 5      | 9      | namesilo  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| red.blackfriday  | available | $114.99   | $114.99       | high           | medium | 3      | namesilo  |
+| act.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| achy.blackfriday | available | $114.99   | $114.99       | low            | low    | 4      | namesilo  |
+| ana.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| ages.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo  |
+| and.blackfriday  | premium   | $384      | $384          | high           | medium | 3      | namesilo  |
+| alar.blackfriday | available | $114.99   | $114.99       | low            | low    | 4      | namesilo  |
+| apt.blackfriday  | premium   | $420      | $420          | high           | low    | 3      | namecheap |
+| alto.blackfriday | available | $114.99   | $114.99       | low            | low    | 4      | namesilo  |
+| con.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| anti.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo  |
+| cxx.blackfriday  | premium   | $384      | $384          | low            | low    | 3      | namesilo  |
+| arab.blackfriday | available | $114.99   | $114.99       | low            | low    | 4      | namesilo  |
+| dot.blackfriday  | premium   | $384      | $384          | high           | medium | 3      | namesilo  |
+| bars.blackfriday | available | $114.99   | $114.99       | high           | low    | 4      | namesilo  |
+| fee.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| bird.blackfriday | available | $114.99   | $114.99       | high           | medium | 4      | namesilo  |
+| flu.blackfriday  | premium   | $384      | $384          | medium         | low    | 3      | namesilo  |
+| born.blackfriday | available | $114.99   | $114.99       | high           | low    | 4      | namesilo  |
+| for.blackfriday  | premium   | $384      | $384          | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,801 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 23 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .blackfriday domains. That makes the set highly specific: the keyword sits in the extension, so the strongest names are words that pair cleanly with a sale, offer, retail, gifting, or promotional context. Examples such as tips.blackfriday, jewels.blackfriday, ladies.blackfriday, and homes.blackfriday show a mix of commercial, category, and audience terms. The median ask is 134.41, which keeps entry pricing relatively approachable, but the main evaluation question is fit. When comparing these domains, focus on whether the word before .blackfriday sounds natural, commercially relevant, and easy to understand at a glance.
+This list holds 12,801 one-word domains on the .blackfriday extension, spanning names like show, watch, motors, superhero, and thanksgiving. The vast majority are available now and priced under $500, with a median ask near $127. Demand scores skew low across the set, though a small subset — including show.blackfriday and watch.blackfriday — shows notably higher reference pricing relative to ask, suggesting wider margins on select names.
 
-- Best fits words that pair naturally with promo or retail intent
-- Median ask is 134.41 across 12,801 listed domains
-- Check if the keyword plus .blackfriday reads cleanly aloud
-- Prioritize clear category terms over forced or awkward pairings
+- 12,801 one-word .blackfriday domains, mostly available
+- Median ask ~$127; 11,807 names priced under $500
+- Demand mostly low; only 4 names in the top 15% tier
+- A few names show large ask-vs-reference price gaps
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
