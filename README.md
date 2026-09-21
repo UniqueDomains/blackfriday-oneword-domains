@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .blackfriday one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,018 domains · **Median ask:** $123.91 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/blackfriday`
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | arab.blackfriday | available | $114.99   | $114.99       | low            | low    | 4      | namesilo  |
 | cxx.blackfriday  | premium   | $384      | $384          | low            | low    | 3      | namesilo  |
 | awol.blackfriday | available | $114.99   | $114.99       | low            | low    | 4      | namesilo  |
-| dot.blackfriday  | premium   | $384      | $384          | medium         | medium | 3      | namesilo  |
+| dot.blackfriday  | premium   | $384      | $384          | medium         | low    | 3      | namesilo  |
 | bars.blackfriday | available | $114.99   | $114.99       | high           | low    | 4      | namesilo  |
 | fee.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
 | bird.blackfriday | available | $114.99   | $114.99       | high           | medium | 4      | namesilo  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
