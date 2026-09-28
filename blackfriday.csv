@@ -2,13 +2,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0d45bb62-c078-455b-b699-bca0c3749c27,spaced.blackfriday,available,114.99,114.99,high,medium,6,namesilo,,,10/09/2026 15:03
 06d33acd-35da-4530-a5c6-d8bacd4db1e8,pawky.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,08/09/2026 10:57
 12c25eb9-301a-42ef-8bd0-049a6ea4c803,persian.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,22/08/2026 09:41
-3db16b73-c8b1-4db1-ab2e-035ab9307dde,magnetized.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,24/08/2026 13:04
+3db16b73-c8b1-4db1-ab2e-035ab9307dde,magnetized.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,24/08/2026 13:04
 e7ade986-961f-48cf-8a5a-9a9658b60c16,small.blackfriday,available,128.98,134.98,high,low,5,namecheap,,,22/09/2026 19:21
 40c27e59-7f9a-45c6-a340-75a82f7ea997,dogging.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,14/08/2026 15:03
 1754391d-a0e6-4a1b-a288-fc562e1552ab,balalaika.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,21/09/2026 20:48
 8003165e-e9ca-4c78-9773-3e26206bd85b,corsair.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,22/09/2026 04:33
 0ff16eb8-ea91-401d-95d4-c4f3ee2ce1b6,cambridge.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,24/09/2026 11:51
-c001399a-dddd-47da-828a-f0b6a93004fa,resolvable.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,
+c001399a-dddd-47da-828a-f0b6a93004fa,resolvable.blackfriday,available,103.5,103.5,high,low,10,porkbun,,,27/09/2026 12:20
 0e312660-f9d7-469e-8159-92c2b4502c8b,albee.blackfriday,available,128.98,134.98,medium,low,5,namecheap,,,18/09/2026 02:31
 0c9db68e-657d-4a58-9761-c8209c9e8a43,ixl.blackfriday,premium,384,384,medium,low,3,namesilo,,,
 bf08cce7-560e-496e-9e77-9e494336d567,underwear.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,
@@ -17,13 +17,13 @@ b2714eb5-782d-4ad7-a7c1-92b8eac11d4b,sleepy.blackfriday,available,114.99,114.99,
 64b6873d-7643-46a5-8441-c5a451582b20,streisand.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,22/09/2026 05:03
 7a842802-85d3-4c0a-9f9b-1c26ef2ebc00,attach.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,23/09/2026 19:57
 563ca061-aeff-4e66-85c7-9efd1806acd8,antefix.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,19/09/2026 12:49
-2ccee87d-6ca9-4f78-aae9-33fd450854fd,abutment.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,16/09/2026 19:33
+2ccee87d-6ca9-4f78-aae9-33fd450854fd,abutment.blackfriday,available,128.98,134.98,medium,low,8,namecheap,,,16/09/2026 19:33
 644fb8b3-7483-4f04-832d-d37ddb6197c9,querier.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,20/09/2026 14:26
 a9046b74-5b83-4a6a-b1f0-8d112be895f3,compile.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,08/09/2026 09:16
 2e9fd00d-7b8f-4746-9b0b-d15233a9b893,sinful.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,22/08/2026 05:27
 1f1baed2-f106-4063-a8f6-7aba9171d0a5,girlish.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,18/08/2026 23:59
 de908505-8cc4-4e84-9b15-4d83ba15bca5,thinking.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
-4a5c282f-cc1a-48fc-8ef3-aee909eea64d,antihero.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,19/09/2026 14:35
+4a5c282f-cc1a-48fc-8ef3-aee909eea64d,antihero.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,19/09/2026 14:35
 ff00172a-4f1e-4418-95d4-e75130c406bd,alder.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,18/09/2026 04:26
 6df4e05e-7376-414a-99ec-56413ac38d17,sprawling.blackfriday,available,114.99,114.99,high,medium,9,namesilo,,,09/09/2026 10:02
 9f0dad40-6951-490d-aefa-6748d8aa14e9,orr.blackfriday,premium,384,384,high,low,3,namesilo,,,27/09/2026 03:21
@@ -32,8 +32,9 @@ ff00172a-4f1e-4418-95d4-e75130c406bd,alder.blackfriday,available,114.99,114.99,h
 78915e6c-65d6-4bd8-8f41-a12bc1854da9,ascites.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,20/09/2026 13:17
 82402035-48cc-4901-b064-5d5aff266682,upbeat.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,04/09/2026 01:23
 6146d22a-03e5-47b4-bdf6-d4507ec4b2df,cislunar.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,12/08/2026 08:30
-86643348-558a-4f25-af27-39fb9737bc02,webby.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,03/09/2026 16:08
+86643348-558a-4f25-af27-39fb9737bc02,webby.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,03/09/2026 16:08
 4e191165-6df1-4695-a3be-fc90492b264a,colored.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,22/09/2026 20:23
+c02ab8ee-eb7a-4bbb-a60c-202d85b8031f,boarding.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,27/09/2026 11:44
 2eff3f9e-6b31-462b-9186-4344850dc0b7,internal.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,25/09/2026 09:40
 b358bd5e-28b5-4e0d-ad50-7fc140633a52,stanch.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,10/09/2026 19:26
 a89d78c0-64ab-46e9-97c9-715c8295b4e8,hangnail.blackfriday,available,128.98,134.98,medium,low,8,namecheap,,,17/09/2026 18:26
@@ -42,8 +43,8 @@ a89d78c0-64ab-46e9-97c9-715c8295b4e8,hangnail.blackfriday,available,128.98,134.9
 350405cc-e4ac-4a8b-8b03-7017b1dffb0d,renascent.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,09/09/2026 13:55
 a61ccf46-cb67-4789-b605-d26a080016ed,askance.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,07/08/2026 02:56
 cf79430d-0c9a-4f7f-abf7-de5d9ca6977e,bernard.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,23/09/2026 09:46
-117a82cf-f376-4cb0-b0b4-937478edfa17,fruitfully.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,14/09/2026 20:27
-a8b09b4b-161f-4e65-b747-e54ddf2d6246,biotype.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,23/09/2026 19:14
+117a82cf-f376-4cb0-b0b4-937478edfa17,fruitfully.blackfriday,available,128.98,134.98,medium,low,10,namecheap,,,14/09/2026 20:27
+a8b09b4b-161f-4e65-b747-e54ddf2d6246,biotype.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,23/09/2026 19:14
 27030322-09b1-495d-a339-9e2302bd5355,options.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,19/09/2026 14:29
 6d526c92-907c-41c0-acb2-5c196896b673,esther.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,24/09/2026 06:50
 8c132f41-2e7c-4090-860e-61bc45f5d1b0,bandbox.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,22/09/2026 01:01
@@ -55,9 +56,9 @@ d0ad4d7a-cbce-4f2a-a535-851f7d702f2f,gently.blackfriday,available,134.98,,high,l
 97a6f134-744b-4df9-8eda-88aa4434b0f9,angela.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,25/09/2026 13:41
 ef3455bb-8935-4aa0-bd84-32f974b3dcb0,coloring.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,12/08/2026 17:31
 1e4d3cd8-e637-4fa2-8159-663238d4f398,abhorrent.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,21/09/2026 13:49
-bc273d15-22e7-4eca-9ba5-ce655a8057f8,irons.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,
+bc273d15-22e7-4eca-9ba5-ce655a8057f8,irons.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,
 13c787de-7473-45bb-b3a0-5b9638eb64f9,friendship.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,
-28d9d034-1ac8-469f-be3f-ac7da54b91a1,gerard.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,25/09/2026 13:17
+28d9d034-1ac8-469f-be3f-ac7da54b91a1,gerard.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,25/09/2026 13:17
 952b361f-66bd-4051-86f9-acc0ea1a3719,secretly.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,15/09/2026 06:37
 59539779-2303-4890-9bc8-7318db640445,historic.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,21/08/2026 09:51
 fc5c501a-1471-4a17-9771-1386e3cf918a,perm.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,08/09/2026 17:34
@@ -68,14 +69,14 @@ f4c6ee37-0c8c-4f83-ae49-c6063bb661e1,discharged.blackfriday,available,114.99,114
 1afd72c4-2cf6-488a-8e59-9fe6af801156,tremulous.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,09/09/2026 07:46
 3df0aad5-cfe5-4ddb-9b0a-55728a1fd7f0,factor.blackfriday,available,134.98,,high,low,6,namecheap,,,
 00621c7b-1373-4462-8c62-6bddd1a993de,dues.blackfriday,available,299.99,299.99,high,low,4,name.com,,,19/09/2026 19:46
-c58d5d8a-2187-4c48-9aaf-7466fd7f0168,rhapsodic.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,14/08/2026 23:52
+c58d5d8a-2187-4c48-9aaf-7466fd7f0168,rhapsodic.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,14/08/2026 23:52
 ae623b1e-0c9c-4458-867d-f42d1a5aa207,icons.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,
-ccc4705f-341b-4d3b-9ac2-1d3214ea7b79,doubting.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,14/08/2026 17:01
+ccc4705f-341b-4d3b-9ac2-1d3214ea7b79,doubting.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,14/08/2026 17:01
 930c8f8d-56e7-484d-b4bc-86bd7e99ad94,ashcan.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,20/09/2026 13:35
 739e51a8-c440-475a-a8b9-d86334290d09,louise.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,25/09/2026 13:47
 9f34838f-775b-4405-8db9-dbfcbfe0660f,debile.blackfriday,available,299.99,299.99,medium,low,6,name.com,,,13/08/2026 20:28
 6ee612e8-37ea-47bc-a37f-5ef4bf091e9e,ashur.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,20/09/2026 13:50
-1fe43f3e-3982-44aa-8679-4acda742572d,fungicide.blackfriday,available,128.98,134.98,high,low,9,namecheap,,,
+1fe43f3e-3982-44aa-8679-4acda742572d,fungicide.blackfriday,available,128.98,134.98,medium,low,9,namecheap,,,
 3d3f9039-ee87-4da2-ae1d-980c91522f97,premolar.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,09/08/2026 19:46
 3cb0b898-76f0-454c-9273-ca6ab3341201,babies.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,
 f9e73bf6-76cf-487e-87cc-b0d123703459,almagrib.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,24/08/2026 16:25
@@ -88,7 +89,7 @@ bceddfea-9592-42bd-adee-b4f8ec030962,fun.blackfriday,premium,384,384,high,medium
 8fa2b7f1-72be-4b16-af77-55ba77723677,aliveness.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,18/09/2026 08:09
 3171c327-949d-41d4-baa8-fc64cb4f0f7c,mongolian.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,25/08/2026 04:47
 b1b06b64-dbe5-4ada-827b-affe21f86bf9,midway.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,11/08/2026 23:58
-22194e73-d250-4879-bfd8-be346334f2a9,beefcake.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,23/09/2026 01:06
+22194e73-d250-4879-bfd8-be346334f2a9,beefcake.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,23/09/2026 01:06
 11f9b07a-daac-4246-b333-af7cfb87dc3c,magicians.blackfriday,available,128.98,134.98,medium,low,9,namecheap,,,20/09/2026 20:54
 118d3432-62e4-4a43-a9f9-68797d6f9e5a,audience.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,21/09/2026 02:53
 f51e39f8-2fd9-44c2-9678-5b32bfaf17f4,flesh.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,25/09/2026 21:58
@@ -99,7 +100,7 @@ a3935663-ae9f-4e3a-aac0-b01303a99c2f,depends.blackfriday,available,128.98,134.98
 1f6a353b-7c3b-423e-993d-2cc21e20d5e3,source.blackfriday,available,128.98,134.98,high,medium,6,namecheap,,,25/09/2026 22:58
 3d4835ba-2855-4e01-beac-7b72908496e5,donaldson.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,27/09/2026 01:45
 4b1872a6-7b2a-4f54-8fb9-83ccc65fd1f4,rococo.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,09/09/2026 18:12
-2755650b-5e2f-4530-a50d-cb6e74bed48c,akko.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,16/09/2026 22:23
+2755650b-5e2f-4530-a50d-cb6e74bed48c,akko.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,16/09/2026 22:23
 0746e0c1-3414-46e9-a291-9566b365baac,dresser.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,17/09/2026 05:17
 8cb20aef-7d63-4f45-9aea-4dbd1efb447f,bowing.blackfriday,available,114.99,114.99,high,medium,6,namesilo,,,10/08/2026 23:25
 fa5d391e-f4f1-48b7-84d5-99ae521c9ab2,zymotic.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,13/09/2026 15:57
@@ -130,9 +131,10 @@ a01fc31d-80d4-4203-8bcd-dade5e1a35fb,attached.blackfriday,available,114.99,114.9
 1d01c10f-8c13-4f0b-82e1-846a4a098f1c,tiddler.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,25/08/2026 00:10
 5ff7a0fb-7a91-4767-b880-b5eb140785b6,haploid.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,20/08/2026 23:55
 b46efbfb-48c4-41bd-be12-b9a27e01b440,letting.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,09/09/2026 14:21
-8930bb2e-ff5b-4c13-b723-dc91802b9c7f,diminutive.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,08/08/2026 14:10
+8930bb2e-ff5b-4c13-b723-dc91802b9c7f,diminutive.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,08/08/2026 14:10
+53c99c08-0644-47df-8666-a71f06c5df33,drowning.blackfriday,available,103.7,103.7,medium,low,8,spaceship,,,27/09/2026 17:38
 e79fa16a-f1f0-4f5c-ac94-c54201d31448,scramble.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,24/09/2026 15:13
-52096593-edcb-4dd3-8614-8ba19ec90910,regardless.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,
+52096593-edcb-4dd3-8614-8ba19ec90910,regardless.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,27/09/2026 11:13
 064870aa-a381-43e4-aeac-a1da24465f34,partial.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,08/09/2026 02:01
 bd2ef6fb-79a1-47ba-81f5-fe36d0381ff6,relaxed.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,09/09/2026 13:24
 a5bcc2b0-30f4-4a80-aa26-214ff7dc8cf6,tilled.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,11/09/2026 15:57
@@ -161,16 +163,16 @@ a51250d7-bd37-411a-9a0d-2de4373ea715,cruciform.blackfriday,available,114.99,114.
 1db776dc-3a80-4657-af7a-4114ad7928b7,symmetric.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,11/09/2026 06:03
 4bb22bcf-b51e-46d8-9f14-8648c4ec3174,scratched.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,
 618c49c4-7e22-407b-8196-2798892ef3b1,mosquito.blackfriday,available,134.98,,medium,low,8,namecheap,,,
-94658183-7690-4c8c-8b92-987f9d48bfa5,passes.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,27/09/2026 02:49
+94658183-7690-4c8c-8b92-987f9d48bfa5,passes.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,27/09/2026 02:49
 e412ab00-d701-4337-9631-ab5807e1b4ee,detergent.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,24/09/2026 07:32
 e5ef1d85-15d7-47f9-88e6-9420b5f6eed2,beagle.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,22/09/2026 19:37
 4ba30728-1a5d-47f6-b4bb-a021b5a3adfd,huffy.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,21/08/2026 14:40
 7bdb3181-dd0a-40e6-8c78-766420158670,freeborn.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,18/08/2026 14:53
 6eb358d1-8e6e-4b8d-9710-0c8e722534d8,arctic.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,06/08/2026 16:07
-83654f80-fa56-4413-95e9-7d41341937b8,glaswegian.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,20/08/2026 14:14
+83654f80-fa56-4413-95e9-7d41341937b8,glaswegian.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,20/08/2026 14:14
 8a9dd8ea-6d2c-4926-a205-61874edae563,heretofore.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,13/09/2026 21:50
 71c377c7-2e0d-44f6-ac4e-6d4dfdb9b661,provided.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,16/09/2026 09:17
-66c28d3b-934a-4bac-b30d-12d4055eeaf8,blest.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,10/08/2026 14:15
+66c28d3b-934a-4bac-b30d-12d4055eeaf8,blest.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,10/08/2026 14:15
 d05e5605-2160-449d-87b4-0c4b176bc6d6,boy.blackfriday,premium,420,420,high,low,3,namecheap,,,
 85ecc190-7450-4737-a274-fe458b361cdf,acapnia.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,16/09/2026 21:08
 fa48e045-7da2-448a-b8bb-b25a4da247fb,day.blackfriday,available,,,high,low,3,,,,
@@ -182,12 +184,12 @@ cfbbfa21-faeb-4070-800f-9710dbc9062e,bibulous.blackfriday,available,128.98,134.9
 edc975bb-e204-489a-a7ff-9867c2166dff,compute.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,19/09/2026 14:03
 376b922c-c1e2-4790-9adc-a4d288d5645a,ooze.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,04/09/2026 15:40
 68299065-4be8-411b-82b0-ba4d110a74f1,deletion.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,24/09/2026 21:34
-54844a45-7b6f-4cfd-816c-99a79e8f2a50,studios.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,18/09/2026 18:25
+54844a45-7b6f-4cfd-816c-99a79e8f2a50,studios.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,18/09/2026 18:25
 9252f570-f364-4cc4-9223-245dc2762ce8,beeswax.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,23/09/2026 01:48
 7c71090c-cf65-420a-bfe1-e5b337b2f27c,obedient.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,03/09/2026 23:30
 36cd7512-8693-4f2c-aba0-5753852805e8,unlikely.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,21/08/2026 23:08
 10ce1bb7-eb4c-4b9d-b9fb-c30724a2022e,supernatural.blackfriday,available,114.99,114.99,high,low,12,namesilo,,,
-bea4754d-9bc3-4e46-8c6f-2614efa8d20e,sighted.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,
+bea4754d-9bc3-4e46-8c6f-2614efa8d20e,sighted.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,27/09/2026 21:56
 abab4b07-e3ec-4c3d-a2c5-25f4a13a4d00,uplifted.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,12/09/2026 23:11
 950a24b4-675a-43dd-b234-1ae0c9a146dd,portion.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,15/09/2026 19:05
 85ecf9f8-52b1-4d87-ae46-e32d3254c7d2,neonate.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,03/09/2026 16:44
@@ -208,10 +210,12 @@ a73b3b36-208a-41e3-935e-93abd40bb761,maturely.blackfriday,available,114.99,114.9
 7a4e1410-4a64-41f1-8652-23f986952423,occupy.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,23/09/2026 12:12
 dd586adf-a6e4-4b08-b496-c176ef04757c,implicit.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,21/08/2026 22:37
 39dca726-b59f-454b-9f6d-abf58494e6e3,extropic.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,17/08/2026 19:38
-2bdfb2d6-cefa-4446-b9cf-73dc6ec6fc7d,wong.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,26/09/2026 03:13
+2bdfb2d6-cefa-4446-b9cf-73dc6ec6fc7d,wong.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,26/09/2026 03:13
 7db625db-f14e-48dc-b6d9-74bd57087f33,tuba.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,22/09/2026 11:52
+a7c77aab-5630-4a5f-8613-2f9d1e019e2b,chapel.blackfriday,available,199.99,199.99,high,low,6,godaddy,,,28/09/2026 01:39
 5214f783-4444-4cd5-bda1-1b5f2369585b,recipe.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,
-8e9a8cec-1832-4aad-94e3-421d64d2e549,wilsonian.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,13/09/2026 12:02
+8e9a8cec-1832-4aad-94e3-421d64d2e549,wilsonian.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,13/09/2026 12:02
+9807cc16-5135-4c9a-bc86-07e3473ef5ad,laurent.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,27/09/2026 09:55
 1744a01c-d4ff-4cac-a467-06ae308dc6fb,communal.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,23/09/2026 16:10
 20c4496e-3ce3-48ae-a162-b1b79891c20d,exclusively.blackfriday,available,114.99,114.99,high,low,11,namesilo,,,
 f5464ed8-36ed-40cc-92d8-cfd4d90855f6,baseless.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,08/08/2026 21:44
@@ -222,7 +226,7 @@ f69eadd9-9abe-480c-9223-6382c715d772,swagger.blackfriday,available,114.99,114.99
 4d1c90a0-6d23-4029-a6f3-9947a23df4ce,release.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,24/09/2026 21:38
 254c4eb3-ecd5-486b-9ab1-097c4e12e91c,defile.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,24/08/2026 12:53
 639f693b-9c18-4f51-b9f0-98ef018ac58c,gratuitous.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,13/08/2026 03:14
-c9047664-0756-40f6-b5be-faa53b2a6e10,jerking.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,06/08/2026 21:58
+c9047664-0756-40f6-b5be-faa53b2a6e10,jerking.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,06/08/2026 21:58
 1609bfb0-6a2d-482e-bc81-fef59d4b77cf,asymmetric.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,07/08/2026 10:25
 c0c1b40b-c73d-4561-acd4-82d9277e0e8d,probable.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,27/09/2026 06:59
 5b147810-de62-4c24-ae76-84d1ce62d0d6,calender.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
@@ -231,7 +235,7 @@ c0c1b40b-c73d-4561-acd4-82d9277e0e8d,probable.blackfriday,available,114.99,114.9
 f342307b-8a1d-4590-a152-053c62f3b185,austerlitz.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,21/09/2026 04:41
 5187abb9-501e-472d-aab6-2c13a10e105b,slimy.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,14/08/2026 04:03
 05429aa3-3cbd-4200-9329-62bb5a82dccd,pegs.blackfriday,available,128.98,134.98,medium,low,4,namecheap,,,20/09/2026 09:49
-e1f5b16e-8f85-4801-9b14-f6afc6db2b68,alkalinity.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,18/09/2026 08:19
+e1f5b16e-8f85-4801-9b14-f6afc6db2b68,alkalinity.blackfriday,available,128.98,134.98,medium,low,10,namecheap,,,18/09/2026 08:19
 a3dacf03-a9c5-4ea2-ae66-8d01cd46c86f,playable.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,08/09/2026 20:57
 5a8b9eab-5d88-409d-a023-ffaf25fe3096,annelid.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,
 0e209714-4225-4867-9af5-c063bec19494,biophysics.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,23/09/2026 18:50
@@ -244,7 +248,7 @@ b0bf60be-43f4-4083-a7cf-24296a2a5d62,partisan.blackfriday,available,114.99,114.9
 1e292b3d-d974-4094-a396-5d062a04407a,flex.blackfriday,available,114.99,114.99,high,medium,4,namesilo,,,23/09/2026 07:41
 6d174ff0-54a4-4321-8f92-fff5099d4940,anaphor.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,19/09/2026 02:12
 b0b3b59c-6f03-48cf-b1ff-a3c62c9930d2,addible.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,
-aae3cc68-9373-4456-a787-085b07f9ba50,spate.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,25/08/2026 00:44
+aae3cc68-9373-4456-a787-085b07f9ba50,spate.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,25/08/2026 00:44
 bc69e38c-c197-4a3e-b88e-fbc6f7f967b6,canorous.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,11/08/2026 17:35
 6a65d1b7-eb11-46cf-9c6c-61d79285f2d8,reflexed.blackfriday,available,114.99,114.99,high,medium,8,namesilo,,,09/09/2026 12:41
 4857ee28-5985-40e9-8ad1-3159cbc3a2eb,apus.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,19/09/2026 22:43
@@ -258,24 +262,26 @@ c72ad43b-0a75-4ce2-a290-73b13fcf5068,ankara.blackfriday,available,114.99,114.99,
 ffe998bc-a5f2-4b09-96c7-7bfc273a7f20,rickety.blackfriday,available,299.99,299.99,medium,low,7,name.com,,,13/08/2026 20:34
 868287a6-f08c-428d-b061-251f9b1f45c4,merely.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,25/09/2026 12:17
 f3f41b2a-b656-4a81-9e70-a8e275d1e95e,pennies.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,
+e3c01060-56a5-4e5e-aeca-7a1570df2673,sylvia.blackfriday,available,103.7,103.7,high,low,6,spaceship,,,27/09/2026 19:08
 52c69f75-faf9-4f52-912a-bb40fe631376,rainproof.blackfriday,available,114.99,114.99,high,medium,9,namesilo,,,09/09/2026 09:47
 b7d7f11b-d14c-4285-97ff-a80266fe2e20,abraham.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,16/09/2026 16:50
 23833cc1-10d4-43a8-b0b1-11c43298eb09,lol.blackfriday,premium,384,384,high,low,3,namesilo,,,
 dbfeeeee-8c70-4121-be59-4b57b93c1265,jocund.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,22/08/2026 13:40
 bee6900a-82c0-4484-b7e1-1f587f1b6b2a,whirr.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,13/09/2026 11:31
 6cac0a30-ba6b-47e1-a2ed-c5fd46069416,queenlike.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,09/09/2026 07:54
-06379c11-b313-41c4-9480-917d519bbb66,subtle.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,
+06379c11-b313-41c4-9480-917d519bbb66,subtle.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,28/09/2026 01:48
 688d6443-4897-4498-a7b4-24ce5e2e2279,enate.blackfriday,available,128.98,134.98,medium,low,5,namecheap,,,16/08/2026 21:18
 a00f0639-e35b-4a9a-8af1-2c561f09735f,lxxxviii.blackfriday,available,128.98,134.98,medium,low,8,namecheap,,,
 e3b9885f-aaa8-4870-a381-019137b7d7d9,arauca.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,20/09/2026 00:22
 7712dbb7-4521-456f-b5de-24b85d51eb05,bagdad.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,
-79ca0db2-002f-40da-b46b-a2d703e0c2a2,videos.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,25/09/2026 06:20
+79ca0db2-002f-40da-b46b-a2d703e0c2a2,videos.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,25/09/2026 06:20
 49536cd9-ca8d-4dec-a8d6-39acc5f6e3aa,declension.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,13/09/2026 13:21
 21728bef-db84-4475-8c37-9906a8bf0fe3,balsamic.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,22/09/2026 16:34
 db866117-703e-4b6b-b5c8-987a864c50b7,extensive.blackfriday,available,128.98,134.98,medium,low,9,namecheap,,,
-e35e125d-6d13-4bc2-8ff8-ea6d6e3fd4cd,zama.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,22/09/2026 16:21
+e35e125d-6d13-4bc2-8ff8-ea6d6e3fd4cd,zama.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,22/09/2026 16:21
 aa0f6b8a-8cfa-4cc5-908e-9551afbd338a,traveled.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
 fc93c0e6-fd4b-43d0-9723-de617f7e1a80,anole.blackfriday,available,128.98,134.98,medium,low,5,namecheap,,,18/09/2026 19:28
+4c1c1578-fe40-461f-89e7-f3f54ec27857,realise.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,27/09/2026 16:29
 c1d00924-26b9-44f5-80da-504ba7ed58bf,stria.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,22/09/2026 01:18
 d38a0461-684f-40f5-9ca1-ba145c139c81,nobelium.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,20/09/2026 21:58
 c9f02a2d-4c06-4b2a-9b94-e207e8ea53c5,investment.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,27/09/2026 01:52
@@ -303,8 +309,8 @@ cbd62b6f-5c43-4039-b82d-83e2e11a47ec,bewitch.blackfriday,available,114.99,114.99
 66672088-2b6a-49e0-b86e-6e1a16c397be,antagonist.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,17/09/2026 10:48
 8fb02d16-dfb1-4aae-aa56-b7181a633609,thinks.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,18/09/2026 15:23
 b27648ab-43bc-4d7b-9859-31aa708efdd2,biaxal.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,09/08/2026 18:46
-2e0d33cb-146c-4562-b3f7-b2882c4f4df9,incisive.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,22/08/2026 01:21
-e404fde9-010b-4d1d-9d0d-9ba22ff63541,webs.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,20/09/2026 10:33
+2e0d33cb-146c-4562-b3f7-b2882c4f4df9,incisive.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,22/08/2026 01:21
+e404fde9-010b-4d1d-9d0d-9ba22ff63541,webs.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,20/09/2026 10:33
 0479172f-4c9a-468f-9e9e-bfcdd61a9307,blackish.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,10/08/2026 12:03
 b3fbfa5d-1c89-4add-9040-f1c8a21aae82,degage.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,13/08/2026 23:57
 ed704d39-af78-4d59-9f0a-a72d2211f3de,truelove.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,10/09/2026 19:36
@@ -327,7 +333,7 @@ e14e989c-3447-4b40-9dcf-16294470828a,bewitched.blackfriday,available,114.99,114.
 638a586d-1d26-40e6-ac52-dec60b7a6781,sample.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,25/09/2026 10:33
 5b2a5c8e-8355-4bf9-9647-b3056f3de90e,numerous.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,22/08/2026 23:01
 413545c9-8ada-4055-a237-6a4efb6f4dda,compressed.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,23/09/2026 18:05
-d2c3a4a9-0a3d-4442-8ed5-df08cf359f1a,waiting.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,
+d2c3a4a9-0a3d-4442-8ed5-df08cf359f1a,waiting.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,27/09/2026 10:28
 d5d7eed6-6d23-4df3-86aa-71b0f5ee13a5,bangla.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,22/09/2026 01:51
 4a221d33-373e-4c1c-a427-1e9ef7484031,stairs.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,
 b1677e85-986b-414f-97f8-8f54e08af237,sissified.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,12/08/2026 08:41
@@ -365,7 +371,7 @@ eabcae4c-6d09-43d3-b163-6567d5582820,excuse.blackfriday,available,114.99,114.99,
 4150c480-18b9-4961-9826-1962725ff055,spirally.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,16/09/2026 06:13
 d0348c46-46d9-43dd-b870-e7a4b9aecb69,course.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,26/09/2026 03:35
 f2292206-ade4-4616-aa8d-282adf5754a1,gimp.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,23/08/2026 13:28
-354b76ca-aee6-4220-ba86-c385c8ff8857,anklets.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,19/09/2026 09:46
+354b76ca-aee6-4220-ba86-c385c8ff8857,anklets.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,19/09/2026 09:46
 869c20f0-e979-4453-8082-6db160737abb,penalties.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,
 62b6b642-07c2-44b9-b4d0-cb26f2d62529,soups.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,19/09/2026 22:44
 04de662a-0ef7-41fb-8edd-2f27bf27c2e7,embonpoint.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,12/08/2026 07:33
@@ -421,6 +427,7 @@ d93fc1bd-c053-427f-8733-1bc3003872a2,apeldoorn.blackfriday,available,114.99,114.
 8243f1b2-4e78-4a95-bad5-fcdcc071706e,balaton.blackfriday,available,299.99,299.99,medium,low,7,name.com,,,21/09/2026 21:18
 d97b62db-b642-4bc8-aa67-92116400b634,unsaved.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,12/09/2026 17:57
 cc58c264-5ab2-4598-bb3b-099b965208e7,estimation.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,19/09/2026 22:26
+c91bc212-6f32-4274-9dcc-8faac5181847,follows.blackfriday,available,103.7,103.7,high,low,7,spaceship,,,27/09/2026 18:23
 37aefdd2-182a-465e-8e9c-b8e0f21dbc74,anxiety.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,19/09/2026 15:59
 023197c0-2aee-4310-87db-fff5e6f73bb2,numbers.blackfriday,available,134.98,,high,low,7,namecheap,,,
 a6659ae9-b0c2-4942-bc50-b28d572251d6,illinois.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,21/08/2026 18:40
@@ -433,7 +440,7 @@ be8e074e-4649-47b3-8d0a-84cf6e7bc230,feet.blackfriday,available,114.99,114.99,hi
 42b67f8f-fe7f-47d7-9c96-9ea745cfdbbe,lasting.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,24/09/2026 12:31
 e6e213a9-70ca-4181-8301-635da1a53bf3,premiss.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,20/09/2026 16:38
 b4e8c41b-401b-404f-8fa6-ab097c8e4f54,official.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,26/09/2026 00:05
-34c9c149-071f-4984-99c5-e363a0b54305,baccharis.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,21/09/2026 14:00
+34c9c149-071f-4984-99c5-e363a0b54305,baccharis.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,21/09/2026 14:00
 49237a69-58b3-4d84-be62-1ac9bda5e91c,barramundi.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,20/09/2026 14:04
 997e7e4c-ba2a-4347-9272-de895775056d,afferent.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
 17c08803-c676-46af-8a36-a2706385ddf7,swim.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,
@@ -453,6 +460,7 @@ ca2a8a8c-7bf5-424a-989c-9db8b7850e6a,limit.blackfriday,available,114.99,114.99,h
 65646237-155d-4c24-8de6-f567cc24c3f2,styptic.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,07/08/2026 10:00
 a2efc315-0aeb-41d7-9d03-e8c243110089,loco.blackfriday,available,128.98,134.98,high,low,4,namecheap,,,06/08/2026 21:13
 7a3a5719-fd66-4c92-94cd-083895eaa170,spinnable.blackfriday,available,114.99,114.99,high,medium,9,namesilo,,,10/09/2026 15:45
+8d6e52d0-42b2-4752-863e-d5e5740fc755,cbc.blackfriday,premium,310.7,310.7,high,low,3,spaceship,,,28/09/2026 00:59
 e2599af8-f71a-4df6-be28-dd48cf77c89d,geodesic.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,18/08/2026 22:23
 f0da6502-b706-43f2-a72c-7c19324926f3,denied.blackfriday,available,114.99,114.99,low,low,6,namesilo,,,27/09/2026 02:21
 78029c10-e2c2-46ae-8e42-6f0b9fcfac8d,exemplary.blackfriday,available,128.98,134.98,high,low,9,namecheap,,,21/09/2026 18:58
@@ -465,7 +473,7 @@ f0da6502-b706-43f2-a72c-7c19324926f3,denied.blackfriday,available,114.99,114.99,
 185e535f-e7f5-435d-999c-a9619655e018,tantalize.blackfriday,available,128.98,134.98,medium,low,9,namecheap,,,21/09/2026 19:52
 610cc002-f7b0-4d1b-8706-e3aff596934f,sup.blackfriday,premium,420,420,high,low,3,namecheap,,,
 a3a1b436-bdbd-4deb-ad3a-2c275a2ef9e9,natal.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,03/09/2026 13:37
-adff1899-1d67-4a8d-8507-3a679ce91cfc,discontent.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,14/08/2026 09:59
+adff1899-1d67-4a8d-8507-3a679ce91cfc,discontent.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,14/08/2026 09:59
 ebd89dc5-dcce-4f0b-a131-d92a1c506163,antique.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,21/09/2026 22:23
 5d4ffa34-caca-43b2-b6aa-82cfa767ba1f,count.blackfriday,available,128.98,134.98,high,low,5,namecheap,,,25/09/2026 23:32
 1404c976-7ee5-4eab-9372-00605d3628ef,shrewd.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,22/09/2026 10:37
@@ -487,7 +495,7 @@ a42c1a93-1a90-4cab-a105-6e92c133ed28,colombo.blackfriday,available,114.99,114.99
 745d8551-6398-426c-8d3f-e27c9f82058b,calorie.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,24/09/2026 11:50
 271bc7bc-f6b8-424e-8dda-55c385151e50,ropy.blackfriday,available,128.98,134.98,high,medium,4,namecheap,,,09/09/2026 18:37
 42268aaf-5487-42af-83b0-f29120c4ea13,bleb.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,24/09/2026 05:21
-391103e3-a348-4bbe-9d02-e41bbc4f6bf3,offhand.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,
+391103e3-a348-4bbe-9d02-e41bbc4f6bf3,offhand.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,
 336f3e3c-a448-42d2-a108-2a350275156e,vernal.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,13/09/2026 04:19
 ae6bb24a-9822-4a75-a2b7-2fad5be5aad2,disbelief.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,24/09/2026 22:29
 049e77d6-9c95-4dd9-a96d-bfc38e8b25db,artistry.blackfriday,available,114.99,114.99,high,medium,8,namesilo,,,19/09/2026 06:29
@@ -521,11 +529,13 @@ eb47e06b-f5c1-49e4-97d0-1df3c18a8449,cooper.blackfriday,available,114.99,114.99,
 1502524f-1e6a-4664-abcd-876d1d7a9cac,blt.blackfriday,premium,384,384,high,low,3,namesilo,,,21/09/2026 16:25
 8efece89-1cf9-4770-97eb-3a320880fce8,glances.blackfriday,available,299.99,299.99,medium,low,7,name.com,,,18/09/2026 02:11
 e549a894-4611-44df-a408-7dde0d96146d,zonary.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,13/09/2026 15:31
+94b564c1-f00a-446e-a516-d482606fd3e7,honeymoon.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,27/09/2026 14:05
 68a5247d-00c3-4672-8f59-76942a90be26,calculations.blackfriday,available,114.99,114.99,medium,low,12,namesilo,,,17/09/2026 02:07
-be61fc8d-1e73-449c-9709-0db7f9adce5f,devil.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,23/09/2026 01:20
+be61fc8d-1e73-449c-9709-0db7f9adce5f,devil.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,23/09/2026 01:20
 31309e4b-68eb-4b3f-8424-5bdac05be14e,gabonese.blackfriday,available,128.98,134.98,medium,low,8,namecheap,,,18/08/2026 19:24
 61e19a8a-0ebf-4878-9a4a-688b0ce8d580,fourier.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,22/09/2026 07:13
 1afe4a82-13d9-40a3-91e1-af56867198de,salty.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,19/09/2026 11:13
+6886d320-658d-4a98-854e-17570f94f733,declare.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,27/09/2026 16:32
 89a2400d-7b69-4e9e-81bb-fcf65a890064,integrally.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,15/09/2026 08:51
 39a819b0-33cb-4b85-a5ba-b6bc39b25a09,snuffly.blackfriday,available,114.99,114.99,high,medium,7,namesilo,,,10/09/2026 12:37
 8c34cd9c-616d-4f1f-b10b-b160d4d7e33a,mendelian.blackfriday,available,128.98,134.98,medium,low,9,namecheap,,,24/08/2026 20:06
@@ -533,7 +543,7 @@ be61fc8d-1e73-449c-9709-0db7f9adce5f,devil.blackfriday,available,114.99,114.99,h
 7ca14454-3532-4bbd-8dbb-f1fb0d067f11,veterans.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,18/09/2026 11:06
 6dcab821-936d-43c7-a437-d763496aa448,convolute.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,12/08/2026 23:57
 d02eac13-d408-463a-9e2e-7ada6f97e0d9,bardic.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,08/08/2026 18:00
-5b2c2560-5012-46df-954f-6389a7d9aa93,ricefield.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,
+5b2c2560-5012-46df-954f-6389a7d9aa93,ricefield.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,
 bcfd2a71-da4a-4af2-b173-d476eecbeef9,jody.blackfriday,available,134.98,,high,low,4,namecheap,,,
 2824ceda-8e72-404b-8baa-92e7af334737,timestamps.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,20/09/2026 14:31
 cfa8bdff-df8e-405c-80fe-5806a9d75494,witless.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,03/09/2026 17:49
@@ -552,7 +562,7 @@ f4f1db14-b9b4-40b8-bc68-6c03b609354a,typed.blackfriday,available,114.99,114.99,h
 28388006-d059-4145-854a-5ea294d30ba5,fizzle.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,11/08/2026 11:19
 ec206c81-5f11-4faa-bdb9-7cefb7a5ffd5,albacore.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,18/09/2026 02:20
 b15ed954-68c8-4344-9673-bac50732356e,cyprinid.blackfriday,available,299.99,299.99,medium,low,8,name.com,,,13/08/2026 14:27
-f98d513b-09e0-4868-abf5-7b9fd45ebe67,shooting.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
+f98d513b-09e0-4868-abf5-7b9fd45ebe67,shooting.blackfriday,available,103.7,103.7,high,low,8,spaceship,,,27/09/2026 21:17
 30325ce8-92e2-48f4-8f7d-b194dc0cbf49,hesse.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,27/09/2026 04:26
 2d3b091e-8ca1-432e-a0fb-7a12c983f05e,amsonia.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,19/09/2026 00:00
 ed3af4a9-9762-4696-9cc7-c5a78b4fecea,boldly.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,14/09/2026 00:53
@@ -562,13 +572,14 @@ aeebcfff-5da4-4c19-856d-11079ea8e845,castellano.blackfriday,available,114.99,114
 bb985ca4-3b0b-4a24-9b59-ef75ab232829,ingrown.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,22/08/2026 04:56
 c2ac3452-673e-404d-b425-a23ad4e7d3fd,forthwith.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,10/09/2026 21:39
 898a6e92-6bde-4e10-b217-7c5ab9e649a9,deprave.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,13/08/2026 02:24
+a6009353-5e79-4390-9662-5dea54001be6,christine.blackfriday,available,128.98,134.98,high,low,9,namecheap,,,27/09/2026 19:02
 9125d471-5b42-429c-90fc-d6cf067afe63,erotic.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,17/08/2026 12:42
 e98ec914-e433-408c-80cb-9e9489729978,sumatran.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,11/09/2026 01:31
 38273845-fb41-4182-baa0-94a478039bac,unimposing.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,12/09/2026 13:12
-820eda72-f1ad-4854-b2a8-2f8d8564e99a,retired.blackfriday,available,134.98,,high,low,7,namecheap,,,
+820eda72-f1ad-4854-b2a8-2f8d8564e99a,retired.blackfriday,available,103.7,103.7,high,low,7,spaceship,,,27/09/2026 13:17
 3478c14b-a149-4c07-93b3-cac8f60a393b,differences.blackfriday,available,114.99,114.99,medium,low,11,namesilo,,,17/09/2026 14:00
 d45f9924-3471-4b39-812d-66ae62a8c24f,aralia.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,19/09/2026 23:52
-234c7d62-9c07-4052-baba-ea0f75b337a4,advertizer.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,17/09/2026 08:39
+234c7d62-9c07-4052-baba-ea0f75b337a4,advertizer.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,17/09/2026 08:39
 3bb30d21-00ab-44ca-877b-c64b95e939cd,smasher.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,22/08/2026 16:38
 b980cbbb-e48b-44e9-9807-d13cc84f0690,arc.blackfriday,premium,384,384,high,medium,3,namesilo,,,06/08/2026 15:03
 e729a4c8-1dae-483d-b1b2-bf80262d79c3,clarkson.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,27/09/2026 01:50
@@ -579,7 +590,7 @@ e2d743d0-1923-4be4-a476-3618ae189c73,twaddle.blackfriday,available,114.99,114.99
 7ea1b46b-8f79-45df-9662-ce246a1dbc45,embodiment.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,21/09/2026 08:48
 1dd44441-3f22-490f-b3c2-4f3334ce968e,somalian.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,10/09/2026 13:56
 bee29047-0a17-45f8-94cc-0888299a2d3c,chiefly.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,25/09/2026 05:59
-b93706fa-c6ee-4968-9532-7ba2d14683e7,outdo.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,09/08/2026 17:43
+b93706fa-c6ee-4968-9532-7ba2d14683e7,outdo.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,09/08/2026 17:43
 64af83ef-1e7a-49c7-9cfe-6c9990af0220,rolled.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,18/08/2026 18:46
 62bbba4a-d6db-490c-a54f-19e442e9d49e,briskly.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,14/09/2026 01:33
 84133261-f677-4c03-9e2f-7d31ec829eb9,mooch.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,11/08/2026 09:27
@@ -595,7 +606,7 @@ cba3e345-792e-4d39-98ee-e7898474bb23,suspect.blackfriday,available,114.99,114.99
 16d6b4d9-0acf-4cdb-b53c-5096da7cbd66,wesleyan.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,24/08/2026 22:00
 e0c6c967-0a92-460b-851e-613443aee190,advertisement.blackfriday,available,114.99,114.99,high,low,13,namesilo,,,
 72c0ea9a-2ac0-4c28-be76-0a39db81f57b,indigene.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,03/09/2026 13:49
-78b93ceb-17dd-4203-8ef9-5538bd1ffefc,chromium.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,20/09/2026 22:39
+78b93ceb-17dd-4203-8ef9-5538bd1ffefc,chromium.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,20/09/2026 22:39
 99fa39c5-46c5-421f-a624-4c8dff4a54fc,stalked.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,08/09/2026 13:33
 1f3bc5e4-b368-4a44-bd5e-a20b97d56cde,swelling.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,24/09/2026 11:05
 bc75c983-e633-4c78-87b9-86506938219f,stringy.blackfriday,available,114.99,114.99,high,medium,7,namesilo,,,10/09/2026 08:17
@@ -613,7 +624,7 @@ c28a5aab-e608-49ff-8fd0-3045e3ac48f7,minty.blackfriday,available,114.99,114.99,h
 46625daa-851b-4077-b8b2-e114dbc9b395,wins.blackfriday,available,128.98,134.98,high,low,4,namecheap,,,18/09/2026 14:21
 3b9de54e-dad4-46ec-bee8-d3c637e996b5,ivory.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,04/09/2026 01:20
 1b0444b2-7b54-49f2-ac74-d1304bffe43f,arability.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,19/09/2026 23:32
-e7343c9f-3a61-4511-971d-7fcca46871c3,doings.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,23/09/2026 03:17
+e7343c9f-3a61-4511-971d-7fcca46871c3,doings.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,23/09/2026 03:17
 3123f2b5-c561-45e9-896d-097ad0649bfa,barbel.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,22/09/2026 04:47
 8e71a158-f4f1-46c2-baa0-02eff999dff7,red.blackfriday,available,128.98,134.98,high,medium,3,namecheap,,,22/09/2026 22:22
 bff1a649-ce1e-42fa-a043-f8e99a5232d3,peevish.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,22/08/2026 10:21
@@ -639,6 +650,7 @@ b41d6274-7905-4578-a6d5-ba8b2dd4a6b7,camo.blackfriday,available,114.99,114.99,hi
 ac6ff1ff-8ffb-4231-8568-e32072dfa600,whirring.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,13/09/2026 11:28
 73a1d8ba-cef4-4d26-bcd1-0b6d112c29b5,palpatory.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,05/09/2026 00:12
 4f2ebafe-cd05-4983-aade-efec225f9594,penial.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,08/09/2026 14:23
+14660575-5953-4975-839b-3c5140c3b323,marrying.blackfriday,available,103.7,103.7,high,low,8,spaceship,,,27/09/2026 17:47
 f62d6031-6544-44d0-bc2b-f4e5b558aa33,mechanism.blackfriday,available,128.98,134.98,high,low,9,namecheap,,,24/09/2026 14:15
 b90d56c2-944b-4d18-b7fe-426b6962956c,receptive.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,09/09/2026 11:23
 a5042651-88b3-4877-807a-2dfa6ebd7e45,pressed.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,27/09/2026 05:21
@@ -648,6 +660,7 @@ c0122002-5e53-4988-9e5a-0d647da2c9d7,triploid.blackfriday,available,128.98,134.9
 57a2b4d7-b59f-4e0c-99b3-b52fd964fd83,sass.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,21/09/2026 14:47
 d41bff0b-50eb-4e99-a3f0-2ea9afa8bf08,apart.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,22/09/2026 07:07
 73f85d7f-59fe-4041-84c7-d0c76bcc61ab,pushup.blackfriday,available,134.98,,high,low,7,namecheap,,,
+5175576c-7ead-4e5b-9721-24575d8b737e,muscles.blackfriday,available,107.22,107.22,medium,low,7,dynadot,,,27/09/2026 21:29
 6bc9c33e-563e-41ea-967f-18ed61c15537,vaughan.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,25/09/2026 10:35
 0eb9fdad-6f3e-4b30-aba4-5b470e28f584,cleverly.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
 112fa3bf-955a-42ac-bebe-e6f19363d0e3,avo.blackfriday,premium,384,384,high,low,3,namesilo,,,21/09/2026 09:36
@@ -658,7 +671,7 @@ d7722e30-ee2a-4657-a3cc-df2e3dc24a0c,climb.blackfriday,available,114.99,114.99,h
 cbf089d8-d6a2-4118-8557-ebe8e71a1d2a,ninefold.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,03/09/2026 17:31
 60344186-ce99-44fa-803b-97dffa166792,refunds.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,20/09/2026 14:13
 cc8e978c-7a46-4593-8f15-cf2cbb7a8230,frozen.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,24/09/2026 19:29
-f89de844-46fc-4a63-8dd0-4464c81f35db,mendoza.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,27/09/2026 07:53
+f89de844-46fc-4a63-8dd0-4464c81f35db,mendoza.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,27/09/2026 07:53
 cb67271a-e3c8-4881-a3fb-d91ac792cb68,gregor.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,
 d2c3b560-5ed7-4a50-8664-1c26854d462d,translating.blackfriday,available,128.98,134.98,medium,low,11,namecheap,,,17/09/2026 20:51
 1e223fff-3ddf-48d7-ac4f-014590f788dd,paranoiac.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,08/09/2026 01:08
@@ -672,14 +685,14 @@ ed7d29b0-0851-4dcb-8e2d-805f5af54a70,challenge.blackfriday,available,114.99,114.
 43488b57-f62b-41f4-818b-ba6af392ab0f,jan.blackfriday,premium,384,384,high,low,3,namesilo,,,
 eefc1b1a-96df-4fbb-b16e-08bea6e84cb7,sadducean.blackfriday,available,114.99,114.99,high,medium,9,namesilo,,,09/09/2026 20:42
 e5d69045-8429-4ac8-a231-e4b3910ee22e,teller.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,22/09/2026 02:23
-9a946656-7f05-491f-bc96-79dad532c958,now.blackfriday,premium,384,384,high,medium,3,namesilo,,,
+9a946656-7f05-491f-bc96-79dad532c958,now.blackfriday,premium,384,384,high,medium,3,namesilo,,,28/09/2026 01:14
 4032808c-3f98-4f69-a77c-b05fbf6878d9,aku.blackfriday,premium,384,384,high,low,3,namesilo,,,18/09/2026 00:16
 04e456e1-f15a-4015-826f-b0f1e4028df1,bandage.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,22/09/2026 00:52
 918bc092-656c-426b-87a1-ec97246c2ee4,napkin.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,03/09/2026 13:10
 0f021834-edc2-4883-a938-4050027c6b58,crosby.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,23/09/2026 17:15
 195d6606-9117-443d-887f-9f531b6ad855,congrats.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
 7804091c-dd2c-4fb1-badf-5834c1080dad,quechua.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,22/08/2026 15:21
-9ad90096-5628-439f-b687-37379f2fda48,same.blackfriday,available,134.98,,high,low,4,namecheap,,,
+9ad90096-5628-439f-b687-37379f2fda48,same.blackfriday,available,107.22,107.22,high,low,4,dynadot,,,27/09/2026 17:53
 9577b6ca-8bbc-43fb-bab4-2a87e73e6740,pouch.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,24/09/2026 11:07
 c5da5ba2-b0c0-4577-b244-7226f4ab6bf2,tongue.blackfriday,available,134.98,,high,low,6,namecheap,,,
 9108f911-e2bd-4e4a-9d5a-82ca5e5b58c1,unnoted.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,04/09/2026 21:08
@@ -714,7 +727,8 @@ ba4ddbf1-7215-4f52-a50f-ed6125c46419,applewood.blackfriday,available,114.99,114.
 6f617403-85d9-45d6-95d2-503c7c9d3098,strife.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,24/09/2026 22:33
 3c99b785-85a3-4d97-9c6a-06f826908427,song.blackfriday,available,,,high,low,4,,,,
 b738b163-29db-44aa-ad48-35af4db378d7,graceful.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,20/08/2026 17:25
-9b2ffd93-99f0-4be3-bab5-78fd42caf416,lugosi.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,23/09/2026 04:23
+53276978-44b5-4d5c-9734-e425fcf19ead,easier.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,27/09/2026 09:58
+9b2ffd93-99f0-4be3-bab5-78fd42caf416,lugosi.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,23/09/2026 04:23
 c8ba1546-9d7b-4198-8460-82a56ed23f91,specifically.blackfriday,available,114.99,114.99,high,low,12,namesilo,,,26/09/2026 00:54
 f5ce0b11-f6dc-4f3f-be44-86b3155876ef,trades.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,25/09/2026 14:51
 c84a8744-4eb4-4ef4-83d3-ef8b4c616b41,deplorable.blackfriday,available,128.98,134.98,medium,low,10,namecheap,,,12/08/2026 20:22
@@ -728,7 +742,7 @@ e31ad061-890d-435a-adb5-21a1b9a5f646,dispensary.blackfriday,available,114.99,114
 dc52dc79-1f55-49ff-b4ef-87fcbd4cb0e7,domed.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,14/08/2026 15:37
 f90f5a28-90cd-4965-af79-cd7cd5248ef3,rant.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,24/09/2026 03:37
 561ba15b-d115-4de3-8abe-cd598f6e286f,ammonia.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,18/09/2026 22:08
-a6fb3abf-1807-4abb-b6a9-db5db287055d,georges.blackfriday,available,299.99,299.99,high,low,7,name.com,,,25/09/2026 15:05
+a6fb3abf-1807-4abb-b6a9-db5db287055d,georges.blackfriday,available,299.99,299.99,medium,low,7,name.com,,,25/09/2026 15:05
 d33aaf87-f595-47de-8c21-747946c1888e,fitted.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,18/08/2026 05:47
 e5863d8e-e73b-40c0-b055-1924ab3756e6,oleaceous.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,04/09/2026 02:06
 42c97250-ad2a-4f92-9b66-341038e3fcbb,syllabled.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,11/09/2026 06:00
@@ -743,7 +757,7 @@ d04b6f8a-4514-4c8f-a68c-826f927ac602,deathly.blackfriday,available,299.99,299.99
 f93f5d45-0e50-43c3-984e-5be9b2237f5d,london.blackfriday,available,134.98,,high,medium,6,namecheap,,,
 310579d0-684c-4119-bcfd-7e7625bb4d54,hell.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,
 3859c7ca-4bff-43fd-8931-4492dddca0be,awake.blackfriday,available,128.98,134.98,high,low,5,namecheap,,,22/09/2026 14:37
-048beb2f-1a23-4efc-9d24-52eb9ec765cf,received.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
+048beb2f-1a23-4efc-9d24-52eb9ec765cf,received.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,27/09/2026 10:43
 8c31d74e-f57b-456e-a2e2-df1b4c0b7bdf,mining.blackfriday,available,134.98,,high,low,6,namecheap,,,
 ff646f64-228e-42c7-9db0-2df33329832c,brace.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,11/08/2026 00:41
 ea951052-84ef-4c43-869f-44ae00585994,imposed.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,21/08/2026 22:50
@@ -763,8 +777,8 @@ d025f5ff-9d14-417b-9b57-dbb669a6fe0c,lodged.blackfriday,available,114.99,114.99,
 811a4bf8-5d5b-4ed2-98b0-2afee129f813,areola.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,20/09/2026 03:49
 81d85b85-8bf6-4f8e-9165-59fdbf32d5ec,arawak.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,06/08/2026 12:38
 e2d8f75d-b7bb-49f8-9ed6-5a595824ceba,dull.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,23/09/2026 00:25
-6cf33068-2f75-4383-860d-9f6401f3ee0a,invariably.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,
-08b82b21-ef78-429f-80bf-c992242338ce,selkirk.blackfriday,available,299.99,299.99,high,low,7,name.com,,,18/09/2026 05:50
+6cf33068-2f75-4383-860d-9f6401f3ee0a,invariably.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,
+08b82b21-ef78-429f-80bf-c992242338ce,selkirk.blackfriday,available,299.99,299.99,medium,low,7,name.com,,,18/09/2026 05:50
 2c79e16b-9105-46cc-991a-e1d829f12054,adultery.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,17/09/2026 10:25
 68328bf8-3669-4200-9139-cea895431e32,irrational.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,25/09/2026 11:23
 60d534b8-1856-4de4-bdbd-304aa6938031,drain.blackfriday,available,128.98,134.98,high,low,5,namecheap,,,24/09/2026 23:49
@@ -791,7 +805,7 @@ a957adc0-f9be-4cf6-864a-914acbfef373,wares.blackfriday,available,114.99,114.99,m
 b0b70f78-ddf1-427a-994e-d43c8327b7d8,ade.blackfriday,premium,384,384,high,low,3,namesilo,,,17/09/2026 07:12
 419a691f-64f7-4bb9-aa30-7a60049b1d28,volumetric.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,13/09/2026 07:03
 c1cf4d0a-2182-407e-a622-42cdd9c8d7f6,fifteen.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,21/09/2026 11:44
-cf2e1dbf-9aaa-43eb-adef-a1ad58be8eef,gardiner.blackfriday,available,128.98,134.98,high,low,8,namecheap,,,25/09/2026 06:17
+cf2e1dbf-9aaa-43eb-adef-a1ad58be8eef,gardiner.blackfriday,available,128.98,134.98,medium,low,8,namecheap,,,25/09/2026 06:17
 78f47dd8-35b9-4f1d-848c-72167bc71a3f,ives.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,25/09/2026 22:11
 81242d15-4fd4-45ce-85c6-0c47ac17ffbf,disappointment.blackfriday,available,114.99,114.99,medium,low,14,namesilo,,,
 a29fe17a-bb4a-4ca4-9565-65a39bab00ec,artisan.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,20/09/2026 11:51
@@ -828,21 +842,21 @@ f8c8e5dd-e202-4f84-a601-bf454f4bc160,unlabelled.blackfriday,available,114.99,114
 5c9d7265-9089-4dbf-8a1f-21e2476c475b,auspicious.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,22/09/2026 13:12
 8ae5fb31-40b0-4db3-87f7-fdbcb6f48a13,vowels.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,20/09/2026 00:07
 5c134637-7d4b-46fc-847f-6189ab03694e,seditious.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,22/08/2026 01:29
-099659e4-f910-4e96-bb2d-7137d5e726e2,jawless.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,22/08/2026 12:34
+099659e4-f910-4e96-bb2d-7137d5e726e2,jawless.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,22/08/2026 12:34
 c5eb4182-bb78-47b9-b3ee-4531b0358c77,beefburger.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,23/09/2026 01:04
 53fbea83-b78c-4421-90a6-82609828f97e,equine.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,17/08/2026 11:45
 24a1fe41-aa80-43b0-a2b5-5161e9783a55,flag.blackfriday,available,128.98,134.98,high,low,4,namecheap,,,25/09/2026 00:12
 2f019171-0e19-4ba9-a6b5-ac6adbee579a,viii.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,
-fbf89d4e-8c56-4754-b798-8fbfe8da1d2f,hardly.blackfriday,available,134.98,,high,low,6,namecheap,,,
+fbf89d4e-8c56-4754-b798-8fbfe8da1d2f,hardly.blackfriday,available,103.7,103.7,high,low,6,spaceship,,,27/09/2026 18:23
 cf72fb4b-b116-40d1-8814-61fa07ef5ea4,rca.blackfriday,premium,390,390,high,medium,3,namecheap,,,25/09/2026 14:08
 9b9d7a5b-7995-47e6-a7f7-d8d6f1d6be22,foppish.blackfriday,available,299.99,299.99,medium,low,7,name.com,,,13/08/2026 17:05
 a4513ff2-5486-4272-aa9e-0b13e4a9bc1a,releasing.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,09/09/2026 13:32
-a85fd01e-232f-4618-ab55-20920a2554de,andorran.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
+a85fd01e-232f-4618-ab55-20920a2554de,andorran.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,
 cc668686-f7d6-4a80-9d7e-95940b0aad65,abulia.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,16/09/2026 16:41
 f180b894-32a8-41ab-abc3-c412aac783a2,taipei.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,
 50d90288-7146-46c8-b883-fe8381cb02d0,boob.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,
 b4059eaa-a048-48d9-83e7-a4ac8322f06b,stone.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,19/09/2026 11:54
-cc2b17fb-7745-471c-8773-a282d412ade9,nicene.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,03/09/2026 17:01
+cc2b17fb-7745-471c-8773-a282d412ade9,nicene.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,03/09/2026 17:01
 b7f77006-e449-468a-8be9-d6aae11a87db,shame.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,
 4a643452-357e-4604-bc20-3ea6d90aba60,liaison.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,17/09/2026 14:03
 e64b0a51-2d69-491d-8c56-e259885c3db7,chemist.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,19/09/2026 19:39
@@ -872,8 +886,8 @@ f1d4eec9-1d2d-4835-8047-3f56a92baf12,fulgent.blackfriday,available,114.99,114.99
 badf3f08-6391-4207-9962-e9afc77b6c2c,both.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,
 0da088b3-1657-4c07-92f8-a6f92b0ef574,blueberries.blackfriday,available,128.98,134.98,high,low,11,namecheap,,,17/09/2026 17:28
 bc0b3d15-ef76-4e5f-b70b-443d72225a6f,marines.blackfriday,available,134.98,,high,low,7,namecheap,,,
-8081d1e7-64a5-44b2-94bf-5d922bdaf9ab,animist.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,
-e9ed2fbb-0670-4442-92ed-bb172096d014,barnacle.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,22/09/2026 06:46
+8081d1e7-64a5-44b2-94bf-5d922bdaf9ab,animist.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,
+e9ed2fbb-0670-4442-92ed-bb172096d014,barnacle.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,22/09/2026 06:46
 d4831b6f-77df-4d9d-9071-1a78bcef13e6,suck.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,
 0664a377-8dd4-44d6-b095-32eb43d77fd6,astounded.blackfriday,available,128.98,134.98,high,low,9,namecheap,,,22/09/2026 03:42
 296ce8cf-8926-4fd4-8491-e2accd69a788,shear.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,
@@ -886,7 +900,7 @@ dda2c36e-6942-4c37-9b35-749755b8a1d6,sleekly.blackfriday,available,114.99,114.99
 5d84ad1b-24dc-4d56-b822-f46f1234281e,aboard.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,27/09/2026 02:14
 d5dedf03-292e-4bd1-aa3c-eb5b234781ce,cub.blackfriday,premium,390,390,high,low,3,namecheap,,,24/09/2026 20:02
 62909757-7502-4a29-9003-3ce8b98e0676,ghanaian.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,18/08/2026 23:10
-43b54bb3-3855-45af-824e-38db86bcc9ef,aliquot.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,
+43b54bb3-3855-45af-824e-38db86bcc9ef,aliquot.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,
 40affad8-179b-463e-a1ca-fc40c2341ce0,stirring.blackfriday,available,128.98,134.98,high,medium,8,namecheap,,,09/09/2026 19:07
 d6f03c4a-a73b-439c-add0-d0a5af1a96b2,photographed.blackfriday,available,128.98,134.98,medium,low,12,namecheap,,,21/09/2026 09:25
 692dc429-0611-4401-a3b8-a68022124ed5,knower.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,19/09/2026 22:14
@@ -896,7 +910,7 @@ c2dff788-dca2-4992-8291-2dbf0afdc7bb,turds.blackfriday,available,114.99,114.99,l
 2778712f-acf1-47a0-b025-525b199764e8,athletics.blackfriday,available,114.99,114.99,high,medium,9,namesilo,,,
 e8c30c38-3ff3-425e-8226-1e40dfd8f66d,wow.blackfriday,available,,,high,medium,3,,,,
 25523bbe-62d3-499c-92b5-5962b22911cb,sinners.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,
-52d9c181-22d4-47e9-ac99-582d0a45e623,respectively.blackfriday,available,114.99,114.99,high,low,12,namesilo,,,
+52d9c181-22d4-47e9-ac99-582d0a45e623,respectively.blackfriday,available,114.99,114.99,medium,low,12,namesilo,,,
 83b454fd-975a-4e22-84be-a33a4bda11e7,mesmerized.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,17/08/2026 22:50
 6a8ac6e8-b0ab-4169-97c1-6a431c12504b,nay.blackfriday,premium,384,384,medium,low,3,namesilo,,,15/09/2026 16:14
 9180309c-7eda-4170-bdd0-f6794f6de3dc,barefaced.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,08/08/2026 09:20
@@ -917,10 +931,11 @@ c85f7aa7-e8f0-40cd-9c7d-cfe39a1255e0,mould.blackfriday,available,128.98,134.98,m
 2f4ae21d-b654-43b7-98aa-02cdb162e845,healthy.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,24/09/2026 22:43
 f8bcfc46-9707-409c-ab63-1da40be58402,thunderous.blackfriday,available,299.99,299.99,medium,low,10,name.com,,,13/08/2026 19:56
 55612fe8-c52c-479b-b412-827a0d7d6ac2,araguaia.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,19/09/2026 23:45
-1cb4afc5-3356-4e8d-a21f-1900051476f7,blithesome.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,10/08/2026 14:39
+1cb4afc5-3356-4e8d-a21f-1900051476f7,blithesome.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,10/08/2026 14:39
 d94de5a5-035c-404b-a00c-b01523127476,arafat.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,19/09/2026 23:42
 8985e714-79de-4993-bf2f-2c5364164245,continually.blackfriday,available,114.99,114.99,medium,low,11,namesilo,,,
 9cf31889-b6ec-4f9e-8f38-dee7e8b61f18,earnest.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,14/08/2026 22:31
+c1a89021-1443-41be-b8a2-f094671581b2,harassment.blackfriday,available,103.7,103.7,medium,low,10,spaceship,,,27/09/2026 13:56
 3ef1d59f-b1fb-45fa-ab7b-c25d94e74258,accretive.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,
 a7324c99-d3ff-46ae-988b-29deab76c79b,arch.blackfriday,available,114.99,114.99,high,medium,4,namesilo,,,22/09/2026 07:38
 1dbac57a-1128-47d2-8c2f-eed365f3a05a,advocacy.blackfriday,available,299.99,299.99,high,low,8,name.com,,,17/09/2026 11:40
@@ -931,8 +946,9 @@ e53c3a06-dcd7-4310-a3d4-4a1cd78b5b4d,rectal.blackfriday,available,114.99,114.99,
 e76c16ff-7854-45e4-b8ab-2da937159ed2,colonic.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,12/08/2026 17:22
 b7221d80-312f-4d3f-ba60-63a23ba5e0bc,forsake.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,14/08/2026 03:54
 4b28527b-908e-451f-9aa0-9954ddef1ca4,unsugared.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,12/09/2026 20:48
+3dbbfcc8-82ea-444c-b956-b9a4656a16d6,passage.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,27/09/2026 13:23
 c5f6da03-152e-43cf-af06-58025c2eca36,hemp.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,24/09/2026 12:04
-dbffecf1-685e-45ea-b590-cacdb489d95b,crinkle.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,13/08/2026 07:16
+dbffecf1-685e-45ea-b590-cacdb489d95b,crinkle.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,13/08/2026 07:16
 bda2bbb0-6624-46e7-989c-84a27679332d,bailee.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,21/09/2026 19:04
 5652d946-af79-4774-bd8e-0f91239299f2,eolic.blackfriday,available,114.99,114.99,low,low,5,namesilo,,,17/09/2026 12:36
 5a121c31-8b22-4f52-bde6-7d017062ac15,smoky.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,10/09/2026 11:59
@@ -956,8 +972,8 @@ aa159b8c-dcc9-4500-ba14-364173fc8a12,bittern.blackfriday,available,114.99,114.99
 98e76bcd-4877-4beb-be5e-e29e20562c39,orleans.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,
 93fc0522-c792-4c92-beff-80368a6b7527,sparely.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,16/09/2026 05:49
 e0d4fecb-f697-4d14-852e-8a9dfddef0ef,seventies.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,16/09/2026 12:13
-e81e3bb9-696c-46ed-96df-e543bca46a72,gaga.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,14/08/2026 14:34
-719a4df8-809a-4495-b604-817703c116ba,bastard.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,08/08/2026 23:19
+e81e3bb9-696c-46ed-96df-e543bca46a72,gaga.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,14/08/2026 14:34
+719a4df8-809a-4495-b604-817703c116ba,bastard.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,08/08/2026 23:19
 de668ea3-378d-41ef-87ce-4b9ca3a6b32b,cloaked.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,12/08/2026 11:28
 4c10274d-2083-4e84-b190-4e3c22e951f5,tightly.blackfriday,available,299.99,299.99,medium,low,7,name.com,,,16/09/2026 09:06
 50147466-803e-4666-b9e5-0590bb84f339,taurus.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,19/09/2026 04:39
@@ -967,7 +983,7 @@ fe0c9df6-018c-4cf7-a0ec-e76d0909ef06,mormon.blackfriday,available,114.99,114.99,
 3ebae42d-20df-4a82-a9b0-64c993849e21,guilty.blackfriday,available,128.98,134.98,high,low,6,namecheap,,,20/08/2026 20:50
 e8fe848b-f92e-4673-9319-40a5bb2f3249,barye.blackfriday,available,299.99,299.99,medium,low,5,name.com,,,22/09/2026 03:48
 59f24b56-7e98-4a21-ba23-749a3140d773,nervy.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,11/08/2026 02:28
-65cdb49f-2df0-43f1-8a12-f9b087457e3f,prolate.blackfriday,available,128.98,134.98,high,low,7,namecheap,,,15/08/2026 18:52
+65cdb49f-2df0-43f1-8a12-f9b087457e3f,prolate.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,15/08/2026 18:52
 7e814d94-4464-4568-9517-866a13668cfd,cares.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,27/09/2026 02:10
 69f68bc6-058a-45f8-9a7d-ef21a51f81ab,participants.blackfriday,available,114.99,114.99,high,low,12,namesilo,,,18/09/2026 04:57
 6c857bc6-3dbc-4e86-ac3c-a75d3bec958b,customer.blackfriday,available,134.98,,high,low,8,namecheap,,,
@@ -983,19 +999,3 @@ b116cd68-7c26-4c05-b277-b9fcabf2af03,periodical.blackfriday,available,114.99,114
 6a72cf78-fe23-4c16-89e3-7af9a4c67789,otiose.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,17/08/2026 20:56
 72ba36e4-7849-4db1-b25c-f6c586088622,afterwards.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,
 31f54ea1-580b-41b2-85a2-27c5d8321970,negligible.blackfriday,available,114.99,114.99,medium,low,10,namesilo,,,03/09/2026 15:08
-1e8124cc-bb25-4239-993e-97b718961479,brinjal.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,21/09/2026 02:34
-95a329e5-3f4d-4b6d-9cd1-9b631e705c9e,affliction.blackfriday,available,128.98,134.98,medium,low,10,namecheap,,,17/09/2026 14:39
-a5c159a5-ab49-4f6e-a3c0-6c6ae8abfaae,depressed.blackfriday,available,114.99,114.99,medium,low,9,namesilo,,,14/08/2026 02:43
-17a3243e-460b-4fd4-b288-1d0980061c1a,shameful.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,14/08/2026 10:28
-09551cad-e7f6-4290-af49-04f353c98733,singhalese.blackfriday,available,114.99,114.99,high,medium,10,namesilo,,,10/09/2026 08:21
-277db5fa-e5b8-4a27-acc7-5cfec6f60c78,backboard.blackfriday,available,128.98,134.98,high,low,9,namecheap,,,21/09/2026 15:09
-9dc4aa92-0acd-49b0-8be1-db46885ec2bc,casebook.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,08/09/2026 03:38
-2d662262-9f6a-44cc-8671-d1fc06c30d74,barman.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,22/09/2026 06:19
-1811dfb3-6f27-488c-80b4-129d3b5589d7,hughes.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,25/09/2026 04:10
-b13f1b97-e8ef-43b5-878d-601464e897be,amnesiac.blackfriday,available,128.98,134.98,medium,low,8,namecheap,,,
-eee2398e-d88b-4183-b851-2cdd8132dbed,keystone.blackfriday,available,128.98,134.98,high,medium,8,namecheap,,,21/09/2026 15:13
-33a3ec0a-cbc9-4c85-a190-61e2156f7866,hunting.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,25/09/2026 07:36
-ac4f59f6-35a9-4f9d-9016-30e30c31f46a,unturned.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,12/09/2026 21:54
-07722087-b87d-4498-aa47-b2fa5770f5fc,saute.blackfriday,available,114.99,114.99,high,low,5,namesilo,,,09/09/2026 22:00
-7a43901c-75d7-4368-b451-fea648901c32,heap.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,25/08/2026 00:28
-41ca4bca-3613-4d55-9814-f08a11a67ef9,ascus.blackfriday,available,114.99,114.99,medium,low,5,namesilo,,,20/09/2026 13:28
