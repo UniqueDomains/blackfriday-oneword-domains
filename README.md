@@ -1,10 +1,10 @@
-# Available .BLACKFRIDAY One-Word Domains (30,153)
+# Available .BLACKFRIDAY One-Word Domains (32,730)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C153%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C730%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .blackfriday one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,153 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,730 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,153 domains · **Median ask:** $127.61 · **High-demand under $2,500:** 76
+**Public extract:** 1,000 rows · **Live catalog:** 32,730 domains · **Median ask:** $127.70 · **High-demand under $2,500:** 86
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/blackfriday`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| instant.blackfriday    | available | $128.98   | $134.98       | high           | medium | 7      | namecheap |
-| own.blackfriday        | premium   | $384      | $384          | high           | high   | 3      | namesilo  |
-| release.blackfriday    | available | $128.98   | $134.98       | high           | low    | 7      | namecheap |
-| fit.blackfriday        | premium   | $390      | $390          | high           | medium | 3      | namecheap |
-| investment.blackfriday | available | $107.22   | $107.22       | high           | low    | 10     | dynadot   |
-| compute.blackfriday    | available | $114.99   | $114.99       | high           | low    | 7      | namesilo  |
-| lively.blackfriday     | available | $114.99   | $114.99       | high           | medium | 6      | namesilo  |
-| export.blackfriday     | available | $107.22   | $107.22       | high           | low    | 6      | dynadot   |
-| rescue.blackfriday     | available | $114.99   | $114.99       | high           | low    | 6      | namesilo  |
-| artistry.blackfriday   | available | $114.99   | $114.99       | high           | medium | 8      | namesilo  |
-| limit.blackfriday      | available | $103.70   | $103.70       | high           | low    | 5      | spaceship |
-| eclipse.blackfriday    | available | $114.99   | $114.99       | high           | medium | 7      | namesilo  |
-| saint.blackfriday      | available | $114.99   | $114.99       | high           | low    | 5      | namesilo  |
-| aid.blackfriday        | premium   | $390      | $390          | high           | low    | 3      | namecheap |
-| attention.blackfriday  | available | $128.98   | $134.98       | high           | low    | 9      | namecheap |
-| grip.blackfriday       | available | $103.70   | $103.70       | high           | low    | 4      | spaceship |
-| budget.blackfriday     | available | $114.99   | $114.99       | high           | low    | 6      | namesilo  |
-| identifier.blackfriday | available | $103.70   | $103.70       | high           | low    | 10     | spaceship |
-| course.blackfriday     | available | $103.70   | $103.70       | high           | low    | 6      | spaceship |
-| expertise.blackfriday  | available | $128.98   | $134.98       | high           | low    | 9      | namecheap |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| red.blackfriday  | available | $128.98   | $134.98       | high           | medium | 3      | namecheap |
+| aau.blackfriday  | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship |
+| akko.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo  |
+| ado.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| amid.blackfriday | available | $103.70   | $103.70       | high           | low    | 4      | spaceship |
+| aid.blackfriday  | premium   | $390      | $390          | high           | low    | 3      | namecheap |
+| apes.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo  |
+| aku.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| apus.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo  |
+| aps.blackfriday  | premium   | $328.02   | $328.02       | high           | low    | 3      | porkbun   |
+| asio.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo  |
+| arc.blackfriday  | premium   | $384      | $384          | high           | medium | 3      | namesilo  |
+| aura.blackfriday | available | $114.99   | $114.99       | high           | medium | 4      | namesilo  |
+| ard.blackfriday  | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun   |
+| beef.blackfriday | available | $114.99   | $114.99       | high           | low    | 4      | namesilo  |
+| avo.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| bleb.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo  |
+| blt.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| bore.blackfriday | available | $114.99   | $114.99       | high           | low    | 4      | namesilo  |
+| boy.blackfriday  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,153 live domains                        |
+| 1,000-row public sample | 32,730 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 76 high-demand names under $2,500          |
+| Basic exported fields   | 86 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACKFRIDAY One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
